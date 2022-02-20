@@ -15,7 +15,7 @@ body{
 
 .container{
   position: relative;
-  width: 300px;
+  width: 400px;
   min-height: 400px;
   background-color: #333;
   padding: 40px 30px 30px;
@@ -37,7 +37,7 @@ body{
 .num {
   display: inline-flex;
   background-color: #444;
-  width: 53px;
+  width: 80px;
   height: 80px;
   margin-top: 15px;
   justify-content: center;
@@ -61,7 +61,7 @@ body{
 }
 
 .c{
-  width: 115px;
+  width: 167px;
   background-color: #900;
 }
 
@@ -71,7 +71,7 @@ body{
 }
 
 .grid .leftside{
-  width: 177px;
+  width: 254px;
 }
 
 .grid .plus{
