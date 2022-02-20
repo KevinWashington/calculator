@@ -47,6 +47,14 @@ body{
   font-size: 1.3rem;
 }
 
+.num:hover{
+  cursor: pointer;
+}
+
+.num:active{
+  background-color: #555;
+}
+
 .row{
   display: flex;
   justify-content: space-between;
